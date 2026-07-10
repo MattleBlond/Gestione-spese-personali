@@ -1,6 +1,6 @@
 {
-  "name": "Libretto — Entrate & Uscite",
-  "short_name": "Libretto",
+  "name": "LUMA — Ledger Unified Management Assistant",
+  "short_name": "Luma",
   "description": "Gestisci entrate, uscite e obiettivi di risparmio.",
   "start_url": "./index.html",
   "scope": "./",
